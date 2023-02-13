@@ -32,7 +32,7 @@ The project, as small as it is is bundled with various Javascript basics includi
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Dice-game](https://dice-game-stegeek.vercel.app/)
 
 ## My process
 
